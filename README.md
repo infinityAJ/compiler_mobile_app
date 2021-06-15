@@ -1,16 +1,26 @@
-# cookbook
+## Online compiler mobile app
 
-A new Flutter project.
+A mobile app to provide access to online compilers using a REST api.
 
-## Getting Started
+# Technologies
 
-This project is a starting point for a Flutter application.
+ - Flutter
+ - REST api
+ - sqlite
 
-A few resources to get you started if this is your first Flutter project:
+# Programming languages supported in the app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - C
+ - C++
+ - Java
+ - Python
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Resources
+
+ - [flutter documentation](https://flutter.dev/docs) for tutorials, samples, guidance on mobile development, and a full API reference.
+ - [Api used to access compilers](https://judge0.p.rapidapi.com) to submit the code and get the response.
+ - Extra packages used in the app were found [here](https://dart.dev/tools/pub/pubspec).
+
+# Note
+
+I have not developed nor i own the api used to access compilers.
